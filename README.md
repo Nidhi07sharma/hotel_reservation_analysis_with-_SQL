@@ -40,3 +40,10 @@ The following questions were answered using SQL queries to analyze the dataset:
 ## SQL Queries
 All SQL queries used to answer the analysis questions are included in the `hotel_reservation_analysis.sql` file. You can run this file in your MySQL environment to reproduce the analysis.
     
+## How to Use This Repository
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Nidhi07sharma/hotel-reservation-analysis-sql.git
+
+   
