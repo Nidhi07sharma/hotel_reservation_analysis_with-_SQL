@@ -46,4 +46,8 @@ All SQL queries used to answer the analysis questions are included in the `hotel
    ```sh
    git clone https://github.com/Nidhi07sharma/hotel-reservation-analysis-sql.git
 
-   
+##Contact 
+ For any questions or feedback, feel free to reach out:
+
+  Email: nidhi0725sharma@gmail.com 
+  GitHub: Nidhi07sharma  
